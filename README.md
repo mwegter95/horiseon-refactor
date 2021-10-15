@@ -18,4 +18,4 @@ Project is created with:
 * CSS
 	
 ## Setup
-To see this project, checkout this repo you're in, and to see the website click here.
+To see this project, checkout this repo you're in, and to see the website click [here](https://mwegter95.github.io/horiseon-refactor/).
