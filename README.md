@@ -14,7 +14,7 @@ Repository for the website files for the week 1 challenge of UofM coding bootcam
 The assignment was to refactor the starter code given to increase accessibility and get rid of unnecessary code. Here is a screenshot of the resulting webpage (visually unchanged). ![screenshot of Horiseon webpage](./horiseon-screenshot.png)
 
 ## Examples
-Here are two examples of refactored CSS code [example 1](./benefits-h3-refactor-css.png) [example 2](.content-h2-refactor-css)
+Here are two examples of refactored CSS code ![example 1](./benefits-h3-refactor-css.png) ![example 2](.content-h2-refactor-css)
 
 ## Technologies
 Project is created with:
